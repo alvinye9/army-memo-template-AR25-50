@@ -12,4 +12,5 @@ Current as of MAR 2025
 5. Click the overleaf logo in the upper left corner of the overleaf web page and select the XeLaTex compiler (2022) in the settings.
 6. Click ***“Recompile”*** button in overleaf.
 7. You should see the memo template generate
+8. Save as PDF and print as "actual size"
 
