@@ -1,6 +1,7 @@
 # Army Memorandum Overleaf Template
 
 Provides a basic AR 25-50 memo in Overleaf.
+Current as of MAR 2025
 
 ## Usage
 
